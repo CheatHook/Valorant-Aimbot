@@ -10,10 +10,8 @@
  
  ### Features:
  
-- Instant support (Key issues, HWID resets, etc)
 - Easiest cheat to use
 - Customizeable Aimbot and ESP, many features.
-- No more than 1 hour downtime, if so time will be compensated.
 
 - Box ESP
 - Line ESP
